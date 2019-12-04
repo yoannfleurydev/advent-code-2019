@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yoannfleurydev/advent-code-2019.git",
+  "author": "Yoann Fleury <yoann.fleury@yahoo.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
